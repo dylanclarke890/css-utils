@@ -134,4 +134,20 @@
   text-decoration: underline overline;
 }
 
+.text-decoration-dotted {
+  text-decoration: dotted;
+}
+
+.text-decoration-dashed {
+  text-decoration: dashed;
+}
+
+.text-decoration-double {
+  text-decoration: double;
+}
+
+.text-decoration-solid {
+  text-decoration: solid;
+}
+
 /* end of text-decoration */
