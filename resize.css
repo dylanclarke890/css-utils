@@ -1,0 +1,18 @@
+.resize-horizontal {
+  overflow: auto;
+  resize: horizontal;
+}
+
+.resize-vertical {
+  overflow: auto;
+  resize: vertical;
+}
+
+.resize-both {
+  overflow: auto;
+  resize: both;
+}
+
+.resize-none {
+  resize: none;
+}
