@@ -1,3 +1,5 @@
+/* text align */
+
 .text-left {
   text-align: left;
 }
@@ -17,3 +19,119 @@
 .text-end {
   text-align: end;
 }
+
+/* end of text-align */
+
+/* text-justify */
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-justify-word {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.text-justify-char {
+  text-align: justify;
+  text-justify: inter-character;
+}
+
+.text-justify-cluster {
+  text-align: justify;
+  text-justify: inter-cluster;
+}
+
+.text-justify-ideograph {
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+.text-justify-auto {
+  text-align: justify;
+  text-justify: auto;
+}
+
+.text-justify-none {
+  text-align: justify;
+  text-justify: none;
+}
+
+/* end of text-justify */
+
+/* text-overflow */
+
+.text-overflow-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.text-overflow-clip {
+  overflow: hidden;
+  text-overflow: clip;
+  white-space: nowrap;
+}
+
+/* end of text-overflow */
+
+/* word-wrap */
+
+.text-word-wrap-normal {
+  word-wrap: normal;
+}
+
+.text-word-wrap-break {
+  word-wrap: break-word;
+}
+
+.text-word-wrap-none {
+  word-wrap: none;
+}
+
+/* end of word-wrap */
+
+/* writing-mode */
+
+.text-write-mode-horizontal-tb {
+  writing-mode: horizontal-tb;
+}
+
+.text-write-mode-sideways-lr {
+  writing-mode: sideways-lr;
+}
+
+.text-write-mode-sideways-rl {
+  writing-mode: sideways-rl;
+}
+
+.text-write-mode-vertical-lr {
+  writing-mode: vertical-lr;
+}
+
+.text-write-mode-vertical-rl {
+  writing-mode: vertical-rl;
+}
+
+/* end of writing-mode */
+
+/* text-decoration */
+
+.text-decoration-over {
+  text-decoration: overline;
+}
+
+.text-decoration-through {
+  text-decoration: line-through;
+}
+
+.text-decoration-under {
+  text-decoration: underline;
+}
+
+.text-decoration-under-over {
+  text-decoration: underline overline;
+}
+
+/* end of text-decoration */
