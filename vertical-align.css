@@ -1,0 +1,39 @@
+.vert-align-baseline {
+  vertical-align: baseline;
+}
+
+.vert-align-sub {
+  vertical-align: sub;
+}
+
+.vert-align-super {
+  vertical-align: super;
+}
+
+.vert-align-top {
+  vertical-align: top;
+}
+
+.vert-align-text-top {
+  vertical-align: text-top;
+}
+
+.vert-align-middle {
+  vertical-align: middle;
+}
+
+.vert-align-bottom {
+  vertical-align: bottom;
+}
+
+.vert-align-text-bottom {
+  vertical-align: text-bottom;
+}
+
+.vert-align-initial {
+  vertical-align: initial;
+}
+
+.vert-align-inherit {
+  vertical-align: inherit;
+}
