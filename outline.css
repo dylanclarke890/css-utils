@@ -33,3 +33,27 @@
 }
 
 /* end of outline-style */
+
+/* outline-width */
+
+.outline-width-thin {
+  outline-width: thin;
+}
+
+.outline-width-med {
+  outline-width: medium;
+}
+
+.outline-width-thick {
+  outline-width: thick;
+}
+
+.outline-width-initial {
+  outline-width: initial;
+}
+
+.outline-width-inherit {
+  outline-width: inherit;
+}
+
+/* end of outline-width */
