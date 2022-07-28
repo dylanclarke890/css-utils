@@ -93,3 +93,19 @@
 }
 
 /* end of background-clip */
+
+/* background-color */
+
+.bg-color-transparent {
+  background-color: transparent;
+}
+
+.bg-color-initial {
+  background-color: initial;
+}
+
+.bg-color-inherit {
+  background-color: inherit;
+}
+
+/* end of background-color */
