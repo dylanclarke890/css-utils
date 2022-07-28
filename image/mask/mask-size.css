@@ -1,19 +1,24 @@
 .mask-size-auto {
   mask-size: auto;
+  -webkit-mask-size: auto;
 }
 
 .mask-size-contain {
   mask-size: contain;
+  -webkit-mask-size: contain;
 }
 
 .mask-size-cover {
   mask-size: cover;
+  -webkit-mask-size: cover;
 }
 
 .mask-size-initial {
   mask-size: initial;
+  -webkit-mask-size: initial;
 }
 
 .mask-size-inherit {
   mask-size: inherit;
+  -webkit-mask-size: inherit;
 }
