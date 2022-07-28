@@ -1,5 +1,5 @@
-/* overflow */
 /* Note: The overflow property only works for block elements with a specified height. */
+/* overflow */
 
 .overflow-scroll {
   overflow: scroll;
@@ -22,6 +22,30 @@
 }
 
 /* end of overflow */
+
+/* overflow-x */
+
+.overflow-x-scroll {
+  overflow-x: scroll;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-x-auto {
+  overflow-x: auto;
+}
+
+.overflow-x-clip {
+  overflow-x: clip;
+}
+
+.overflow-x-visible {
+  overflow-x: visible;
+}
+
+/* end of overflow-x */
 
 /* overflow-wrap */
 
