@@ -69,3 +69,31 @@
 }
 
 /* end of column-rule-style */
+
+/* column-rule-width */
+
+.col-rule-width-med {
+  column-rule-width: medium;
+}
+
+.col-rule-width-thin {
+  column-rule-width: thin;
+}
+
+.col-rule-width-thick {
+  column-rule-width: thick;
+}
+
+.col-rule-width-length {
+  column-rule-width: length;
+}
+
+.col-rule-width-initial {
+  column-rule-width: initial;
+}
+
+.col-rule-width-inherit {
+  column-rule-width: inherit;
+}
+
+/* end of column-rule-width */
