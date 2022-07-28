@@ -1,0 +1,55 @@
+.clip-circle {
+  clip-path: circle;
+}
+
+.clip-ellipse {
+  clip-path: ellipse;
+}
+
+.clip-polygon {
+  clip-path: polygon;
+}
+
+.clip-inset {
+  clip-path: inset;
+}
+
+.clip-margin-box {
+  clip-path: margin-box;
+}
+
+.clip-border-box {
+  clip-path: border-box;
+}
+
+.clip-padding-box {
+  clip-path: padding-box;
+}
+
+.clip-content-box {
+  clip-path: content-box;
+}
+
+.clip-fill-box {
+  clip-path: fill-box;
+}
+
+.clip-stroke-box {
+  clip-path: stroke-box;
+}
+
+.clip-view-box {
+  clip-path: view-box;
+}
+
+.clip-none {
+  clip-path: none;
+}
+
+.clip-initial {
+  clip-path: initial;
+}
+
+.clip-inherit {
+  clip-path: inherit;
+}
