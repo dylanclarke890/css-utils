@@ -1,0 +1,44 @@
+/* perspective-origin */
+/* Note: When defining the perspective-origin property for an element, 
+  it is the CHILD elements that will get the effect, NOT the element itself.
+  Note: This property MUST be used in conjunction with the perspective property! */
+
+/* perspective-origin */
+
+.perspective-orig-left-top {
+  perspective-origin: left top;
+}
+
+.perspective-orig-left-center {
+  perspective-origin: left center;
+}
+
+.perspective-orig-left-bottom {
+  perspective-origin: left bottom;
+}
+
+.perspective-orig-right-top {
+  perspective-origin: right top;
+}
+
+.perspective-orig-right-center {
+  perspective-origin: right center;
+}
+
+.perspective-orig-right-bottom {
+  perspective-origin: right bottom;
+}
+
+.perspective-orig-center-top {
+  perspective-origin: center top;
+}
+
+.perspective-orig-center-center {
+  perspective-origin: center center;
+}
+
+.perspective-orig-center-bottom {
+  perspective-origin: center bottom;
+}
+
+/* end of perspective-origin */
