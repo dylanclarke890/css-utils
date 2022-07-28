@@ -1,7 +1,6 @@
+/* page-break-after */
 /* Note: Browsers may interpret "left" and "right" as "always".  */
 /* Note: no browser currently supports "avoid". */
-
-/* page-break-after */
 
 .page-break-after-auto {
   page-break-after: auto;
@@ -34,6 +33,8 @@
 /* end of page-break-after */
 
 /* page-break-before */
+/* Note: Browsers may interpret "left" and "right" as "always".  */
+/* Note: no browser currently supports "avoid". */
 
 .page-break-before-auto {
   page-break-before: auto;
@@ -64,3 +65,36 @@
 }
 
 /* end of page-break-before */
+
+/* page-break-inside */
+/* Note: You cannot use this property on absolutely positioned elements. */
+
+.page-break-inside-auto {
+  page-break-inside: auto;
+}
+
+.page-break-inside-always {
+  page-break-inside: always;
+}
+
+.page-break-inside-avoid {
+  page-break-inside: avoid;
+}
+
+.page-break-inside-left {
+  page-break-inside: left;
+}
+
+.page-break-inside-right {
+  page-break-inside: right;
+}
+
+.page-break-inside-initial {
+  page-break-inside: initial;
+}
+
+.page-break-inside-inherit {
+  page-break-inside: inherit;
+}
+
+/* end of page-break-inside */
