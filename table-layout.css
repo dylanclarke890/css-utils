@@ -1,0 +1,15 @@
+.table-layout-auto {
+  table-layout: auto;
+}
+
+.table-layout-fixed {
+  table-layout: fixed;
+}
+
+.table-layout-initial {
+  table-layout: initial;
+}
+
+.table-layout-inherit {
+  table-layout: inherit;
+}
