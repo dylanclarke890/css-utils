@@ -1,0 +1,15 @@
+.list-style-pos-in {
+  list-style-position: inside;
+}
+
+.list-style-pos-out {
+  list-style-position: outside;
+}
+
+.list-style-pos-initial {
+  list-style-position: initial;
+}
+
+.list-style-pos-inherit {
+  list-style-position: inherit;
+}
