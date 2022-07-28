@@ -1,3 +1,5 @@
+/* animation-direction */
+
 .animate-dir-normal {
   animation-direction: normal;
 }
@@ -21,3 +23,33 @@
 .animate-dir-inherit {
   animation-direction: inherit;
 }
+
+/* end of animation-direction */
+
+/* animation-fill-mode */
+
+.animate-fill-none {
+  animation-fill-mode: none;
+}
+
+.animate-fill-forwards {
+  animation-fill-mode: forwards;
+}
+
+.animate-fill-backwards {
+  animation-fill-mode: backwards;
+}
+
+.animate-fill-both {
+  animation-fill-mode: both;
+}
+
+.animate-fill-initial {
+  animation-fill-mode: initial;
+}
+
+.animate-fill-inherit {
+  animation-fill-mode: inherit;
+}
+
+/* animation-fill-mode */
