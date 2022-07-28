@@ -1,3 +1,25 @@
+/* box-sizing */
+
+.box-size-content {
+  box-sizing: content-box;
+}
+
+.box-size-border {
+  box-sizing: border-box;
+}
+
+.box-size-initial {
+  box-sizing: initial;
+}
+
+.box-size-inherit {
+  box-sizing: inherit;
+}
+
+/* end of box-sizing */
+
+/* box-decoration-break */
+
 .box-decor-break-slice {
   box-decoration-break: slice;
 }
@@ -17,3 +39,5 @@
 .box-decor-break-unset {
   box-decoration-break: unset;
 }
+
+/* box-decoration-break */
