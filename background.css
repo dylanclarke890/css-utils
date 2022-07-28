@@ -173,3 +173,31 @@
 }
 
 /* end of background-position */
+
+/* background-repeat */
+
+.bg-repeat {
+  background-repeat: repeat;
+}
+
+.bg-repeat-x {
+  background-repeat: repeat-x;
+}
+
+.bg-repeat-y {
+  background-repeat: repeat-y;
+}
+
+.bg-repeat-none {
+  background-repeat: no-repeat;
+}
+
+.bg-repeat-initial {
+  background-repeat: initial;
+}
+
+.bg-repeat-inherit {
+  background-repeat: inherit;
+}
+
+/* end of background-repeat */
