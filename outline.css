@@ -1,0 +1,35 @@
+/* outline-style */
+
+.outline-style-dotted {
+  outline-style: dotted;
+}
+
+.outline-style-dashed {
+  outline-style: dashed;
+}
+
+.outline-style-solid {
+  outline-style: solid;
+}
+
+.outline-style-double {
+  outline-style: double;
+}
+
+.outline-style-groove {
+  outline-style: groove;
+}
+
+.outline-style-ridge {
+  outline-style: ridge;
+}
+
+.outline-style-inset {
+  outline-style: inset;
+}
+
+.outline-style-outset {
+  outline-style: outset;
+}
+
+/* end of outline-style */
