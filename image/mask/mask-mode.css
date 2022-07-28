@@ -1,0 +1,21 @@
+/* NOTE: only supported in Firefox. */
+
+.mask-mode-source {
+  mask-mode: match-source;
+}
+
+.mask-mode-luminance {
+  mask-mode: luminance;
+}
+
+.mask-mode-alpha {
+  mask-mode: alpha;
+}
+
+.mask-mode-initial {
+  mask-mode: initial;
+}
+
+.mask-mode-inherit {
+  mask-mode: inherit;
+}

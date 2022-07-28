@@ -1,0 +1,35 @@
+.mask-pos-left-top {
+  mask-position: left top;
+}
+
+.mask-pos-left-center {
+  mask-position: left center;
+}
+
+.mask-pos-left-bottom {
+  mask-position: left bottom;
+}
+
+.mask-pos-right-top {
+  mask-position: right top;
+}
+
+.mask-pos-right-center {
+  mask-position: right center;
+}
+
+.mask-pos-right-bottom {
+  mask-position: right bottom;
+}
+
+.mask-pos-center-top {
+  mask-position: center top;
+}
+
+.mask-pos-center-center {
+  mask-position: center center;
+}
+
+.mask-pos-center-bottom {
+  mask-position: center bottom;
+}

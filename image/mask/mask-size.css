@@ -1,0 +1,19 @@
+.mask-size-auto {
+  mask-size: auto;
+}
+
+.mask-size-contain {
+  mask-size: contain;
+}
+
+.mask-size-cover {
+  mask-size: cover;
+}
+
+.mask-size-initial {
+  mask-size: initial;
+}
+
+.mask-size-inherit {
+  mask-size: inherit;
+}
