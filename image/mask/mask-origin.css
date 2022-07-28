@@ -1,35 +1,44 @@
 .mask-orig-border {
   mask-origin: border-box;
+  -webkit-mask-origin: border-box;
 }
 
 .mask-orig-content {
   mask-origin: content-box;
+  -webkit-mask-origin: content-box;
 }
 
 .mask-orig-padding {
   mask-origin: padding-box;
+  -webkit-mask-origin: padding-box;
 }
 
 .mask-orig-margin {
   mask-origin: margin-box;
+  -webkit-mask-origin: margin-box;
 }
 
 .mask-orig-fill {
   mask-origin: fill-box;
+  -webkit-mask-origin: fill-box;
 }
 
 .mask-orig-stroke {
   mask-origin: stroke-box;
+  -webkit-mask-origin: stroke-box;
 }
 
 .mask-orig-view {
   mask-origin: view-box;
+  -webkit-mask-origin: view-box;
 }
 
 .mask-orig-initial {
   mask-origin: initial;
+  -webkit-mask-origin: initial;
 }
 
 .mask-orig-inherit {
   mask-origin: inherit;
+  -webkit-mask-origin: inherit;
 }
