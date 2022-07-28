@@ -17,3 +17,55 @@
 }
 
 /* end of column-fill */
+
+/* column-rule-style */
+
+.col-rule-style-none {
+  column-rule-style: none;
+}
+
+.col-rule-style-hidden {
+  column-rule-style: hidden;
+}
+
+.col-rule-style-dotted {
+  column-rule-style: dotted;
+}
+
+.col-rule-style-dashed {
+  column-rule-style: dashed;
+}
+
+.col-rule-style-solid {
+  column-rule-style: solid;
+}
+
+.col-rule-style-double {
+  column-rule-style: double;
+}
+
+.col-rule-style-groove {
+  column-rule-style: groove;
+}
+
+.col-rule-style-ridge {
+  column-rule-style: ridge;
+}
+
+.col-rule-style-inset {
+  column-rule-style: inset;
+}
+
+.col-rule-style-outset {
+  column-rule-style: outset;
+}
+
+.col-rule-style-initial {
+  column-rule-style: initial;
+}
+
+.col-rule-style-inherit {
+  column-rule-style: inherit;
+}
+
+/* end of column-rule-style */
