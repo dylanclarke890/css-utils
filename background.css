@@ -133,3 +133,43 @@
 }
 
 /* end of background-origin */
+
+/* background-position */
+
+.bg-pos-left-top {
+  background-position: left top;
+}
+
+.bg-pos-left-center {
+  background-position: left center;
+}
+
+.bg-pos-left-bottom {
+  background-position: left bottom;
+}
+
+.bg-pos-right-top {
+  background-position: right top;
+}
+
+.bg-pos-right-center {
+  background-position: right center;
+}
+
+.bg-pos-right-bottom {
+  background-position: right bottom;
+}
+
+.bg-pos-center-top {
+  background-position: center top;
+}
+
+.bg-pos-center-center {
+  background-position: center center;
+}
+
+.bg-pos-center-bottom {
+  background-position: center bottom;
+}
+
+/* end of background-position */
