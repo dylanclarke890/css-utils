@@ -165,3 +165,23 @@
 }
 
 /* end of font-style */
+
+/* font-variant */
+
+.font-variant-normal {
+  font-variant: normal;
+}
+
+.font-variant-small-caps {
+  font-variant: small-caps;
+}
+
+.font-variant-initial {
+  font-variant: initial;
+}
+
+.font-variant-inherit {
+  font-variant: inherit;
+}
+
+/* end of font-variant */
