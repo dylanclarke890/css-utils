@@ -89,3 +89,55 @@
 }
 
 /* end of font-size */
+
+/* font-stretch */
+
+.font-stretch-normal {
+  font-stretch: normal;
+}
+
+.font-stretch-condense-semi {
+  font-stretch: semi-condensed;
+}
+
+.font-stretch-condense {
+  font-stretch: condensed;
+}
+
+.font-stretch-condense-extra {
+  font-stretch: extra-condensed;
+}
+
+.font-stretch-condense-ultra {
+  font-stretch: ultra-condensed;
+}
+
+.font-stretch-expand-semi {
+  font-stretch: semi-expanded;
+}
+
+.font-stretch-expand {
+  font-stretch: expanded;
+}
+
+.font-stretch-expand-extra {
+  font-stretch: extra-expanded;
+}
+
+.font-stretch-expand-ultra {
+  font-stretch: ultra-expanded;
+}
+
+.font-stretch-initial {
+  font-stretch: initial;
+}
+
+.font-stretch-inherit {
+  font-stretch: inherit;
+}
+
+.font-stretch-wider {
+  font-stretch: wider;
+}
+
+/* end of font-stretch */
