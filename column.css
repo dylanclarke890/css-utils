@@ -97,3 +97,23 @@
 }
 
 /* end of column-rule-width */
+
+/* column-span */
+
+.col-span-none {
+  column-span: none;
+}
+
+.col-span-all {
+  column-span: all;
+}
+
+.col-span-initial {
+  column-span: initial;
+}
+
+.col-span-inherit {
+  column-span: inherit;
+}
+
+/* end of column-span */
