@@ -1,0 +1,27 @@
+.pos-static {
+  position: static;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+.pos-fixed {
+  position: fixed;
+}
+
+.pos-relative {
+  position: relative;
+}
+
+.pos-sticky {
+  position: sticky;
+}
+
+.pos-initial {
+  position: initial;
+}
+
+.pos-inherit {
+  position: inherit;
+}
