@@ -1,0 +1,15 @@
+.caption-side-top {
+  caption-side: top;
+}
+
+.caption-side-bottom {
+  caption-side: bottom;
+}
+
+.caption-side-initial {
+  caption-side: initial;
+}
+
+.caption-side-inherit {
+  caption-side: inherit;
+}
