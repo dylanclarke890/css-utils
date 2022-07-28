@@ -1,3 +1,6 @@
+/* Note: Browsers may interpret "left" and "right" as "always".  */
+/* Note: no browser currently supports "avoid". */
+
 /* page-break-after */
 
 .page-break-after-auto {
@@ -9,7 +12,7 @@
 }
 
 .page-break-after-avoid {
-  page-break-after: avoid; /* no browser support currently. */
+  page-break-after: avoid;
 }
 
 .page-break-after-left {
