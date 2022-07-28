@@ -1,0 +1,38 @@
+/* transform-origin */
+
+.transform-orig-left-top {
+  transform-origin: left top;
+}
+
+.transform-orig-left-center {
+  transform-origin: left center;
+}
+
+.transform-orig-left-bottom {
+  transform-origin: left bottom;
+}
+
+.transform-orig-right-top {
+  transform-origin: right top;
+}
+
+.transform-orig-right-center {
+  transform-origin: right center;
+}
+
+.transform-orig-right-bottom {
+  transform-origin: right bottom;
+}
+
+.transform-orig-center-top {
+  transform-origin: center top;
+}
+
+.transform-orig-center-center {
+  transform-origin: center center;
+}
+
+.transform-orig-center-bottom {
+  transform-origin: center bottom;
+}
+/* end of transform-origin */
