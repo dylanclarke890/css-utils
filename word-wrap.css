@@ -1,0 +1,15 @@
+.wordwrap-normal {
+  word-wrap: normal;
+}
+
+.wordwrap-break-word {
+  word-wrap: break-word;
+}
+
+.wordwrap-initial {
+  word-wrap: initial;
+}
+
+.wordwrap-inherit {
+  word-wrap: inherit;
+}
