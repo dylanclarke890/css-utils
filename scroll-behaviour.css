@@ -1,0 +1,15 @@
+.scroll-behavior-auto {
+  scroll-behavior: auto;
+}
+
+.scroll-behavior-smooth {
+  scroll-behavior: smooth;
+}
+
+.scroll-behavior-initial {
+  scroll-behavior: initial;
+}
+
+.scroll-behavior-inherit {
+  scroll-behavior: inherit;
+}
