@@ -1,55 +1,83 @@
 .clip-circle {
+  clip: circle;
   clip-path: circle;
+  -webkit-clip-path: circle;
 }
 
 .clip-ellipse {
+  clip: ellipse;
   clip-path: ellipse;
+  -webkit-clip-path: ellipse;
 }
 
 .clip-polygon {
+  clip: polygon;
   clip-path: polygon;
+  -webkit-clip-path: polygon;
 }
 
 .clip-inset {
+  clip: inset;
   clip-path: inset;
+  -webkit-clip-path: inset;
 }
 
 .clip-margin-box {
+  clip: margin-box;
   clip-path: margin-box;
+  -webkit-clip-path: margin-box;
 }
 
 .clip-border-box {
+  clip: border-box;
   clip-path: border-box;
+  -webkit-clip-path: border-box;
 }
 
 .clip-padding-box {
+  clip: padding-box;
   clip-path: padding-box;
+  -webkit-clip-path: padding-box;
 }
 
 .clip-content-box {
+  clip: content-box;
   clip-path: content-box;
+  -webkit-clip-path: content-box;
 }
 
 .clip-fill-box {
+  clip: fill-box;
   clip-path: fill-box;
+  -webkit-clip-path: fill-box;
 }
 
 .clip-stroke-box {
+  clip: stroke-box;
   clip-path: stroke-box;
+  -webkit-clip-path: stroke-box;
 }
 
 .clip-view-box {
+  clip: view-box;
   clip-path: view-box;
+  -webkit-clip-path: view-box;
 }
 
 .clip-none {
+  clip: none;
   clip-path: none;
+  -webkit-clip-path: none;
 }
 
 .clip-initial {
+  clip: initial;
   clip-path: initial;
+  -webkit-clip-path: initial;
 }
 
 .clip-inherit {
+  clip: inherit;
   clip-path: inherit;
+  -webkit-clip-path: inherit;
 }
