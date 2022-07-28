@@ -1,3 +1,6 @@
+/* NOTE: resets all properties, apart from unicode-bidi and direction,
+   to their initial or inherited value. */
+
 .all-initial {
   all: initial;
 }
