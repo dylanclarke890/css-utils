@@ -1,0 +1,19 @@
+.box-decor-break-slice {
+  box-decoration-break: slice;
+}
+
+.box-decor-break-clone {
+  box-decoration-break: clone;
+}
+
+.box-decor-break-initial {
+  box-decoration-break: initial;
+}
+
+.box-decor-break-inherit {
+  box-decoration-break: inherit;
+}
+
+.box-decor-break-unset {
+  box-decoration-break: unset;
+}
