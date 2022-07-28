@@ -52,4 +52,28 @@
   animation-fill-mode: inherit;
 }
 
-/* animation-fill-mode */
+/* end of animation-fill-mode */
+
+/* animation-iteration-count */
+
+.animate-iterate-infinite {
+  animation-iteration-count: infinite;
+}
+
+.animate-iterate-once {
+  animation-iteration-count: 1;
+}
+
+.animate-iterate-twice {
+  animation-iteration-count: 2;
+}
+
+.animate-iterate-initial {
+  animation-iteration-count: initial;
+}
+
+.animate-iterate-inherit {
+  animation-iteration-count: inherit;
+}
+
+/* end of animation-iteration-count */
