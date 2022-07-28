@@ -1,0 +1,43 @@
+.content-normal {
+  content: normal;
+}
+
+.content-none {
+  content: none;
+}
+
+.content-counter {
+  content: counter;
+}
+
+.content-attr {
+  content: attr;
+}
+
+.content-string {
+  content: string;
+}
+
+.content-open-quote {
+  content: open-quote;
+}
+
+.content-close-quote {
+  content: close-quote;
+}
+
+.content-no-open-quote {
+  content: no-open-quote;
+}
+
+.content-no-close-quote {
+  content: no-close-quote;
+}
+
+.content-initial {
+  content: initial;
+}
+
+.content-inherit {
+  content: inherit;
+}
