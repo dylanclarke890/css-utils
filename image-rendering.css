@@ -1,0 +1,22 @@
+/* requires image to have a scale set */
+
+.image-render-auto {
+  image-rendering: auto;
+}
+
+.image-render-crisp {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
+
+.image-render-pixel {
+  image-rendering: pixelated;
+}
+
+.image-render-smooth {
+  image-rendering: smooth;
+}
+
+.image-render-high-quality {
+  image-rendering: high-quality;
+}
