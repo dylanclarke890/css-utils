@@ -35,4 +35,26 @@
 .transform-orig-center-bottom {
   transform-origin: center bottom;
 }
+
 /* end of transform-origin */
+
+/* transform-style */
+/* Note: This property must be used together with the transform property. */
+
+.transform-style-flat {
+  transform-style: flat;
+}
+
+.transform-style-preserve {
+  transform-style: preserve-3d;
+}
+
+.transform-style-initial {
+  transform-style: initial;
+}
+
+.transform-style-inherit {
+  transform-style: inherit;
+}
+
+/* end of transform-style */
