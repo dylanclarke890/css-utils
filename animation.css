@@ -1,0 +1,23 @@
+.animate-dir-normal {
+  animation-direction: normal;
+}
+
+.animate-dir-reverse {
+  animation-direction: reverse;
+}
+
+.animate-dir-alt {
+  animation-direction: alt;
+}
+
+.animate-dir-alt-reverse {
+  animation-direction: alternate-reverse;
+}
+
+.animate-dir-initial {
+  animation-direction: initial;
+}
+
+.animate-dir-inherit {
+  animation-direction: inherit;
+}
