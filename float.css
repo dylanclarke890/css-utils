@@ -1,0 +1,27 @@
+.float-none {
+  float: none;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-initial {
+  float: initial;
+}
+
+.float-inherit {
+  float: inherit;
+}
+
+.float-inline-start {
+  float: inline-start;
+}
+
+.float-inline-end {
+  float: inline-end;
+}
