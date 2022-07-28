@@ -1,4 +1,5 @@
 /* overflow */
+/* Note: The overflow property only works for block elements with a specified height. */
 
 .overflow-scroll {
   overflow: scroll;
