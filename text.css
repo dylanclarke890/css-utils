@@ -195,3 +195,31 @@
 }
 
 /* end of direction */
+
+/* text-transform */
+
+.text-trans-none {
+  text-transform: none;
+}
+
+.text-trans-capital {
+  text-transform: capitalize;
+}
+
+.text-trans-upper {
+  text-transform: uppercase;
+}
+
+.text-trans-lower {
+  text-transform: lowercase;
+}
+
+.text-trans-initial {
+  text-transform: initial;
+}
+
+.text-trans-inherit {
+  text-transform: inherit;
+}
+
+/* end of text-transform */
