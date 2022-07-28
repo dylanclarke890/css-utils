@@ -1,0 +1,19 @@
+.uni-bidi-normal {
+  unicode-bidi: normal;
+}
+
+.uni-bidi-embed {
+  unicode-bidi: embed;
+}
+
+.uni-bidi-override {
+  unicode-bidi: bidi-override;
+}
+
+.uni-bidi-initial {
+  unicode-bidi: initial;
+}
+
+.uni-bidi-inherit {
+  unicode-bidi: inherit;
+}
