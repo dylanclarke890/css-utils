@@ -47,6 +47,30 @@
 
 /* end of overflow-x */
 
+/* overflow-y */
+
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-clip {
+  overflow-y: clip;
+}
+
+.overflow-y-visible {
+  overflow-y: visible;
+}
+
+/* end of overflow-x */
+
 /* overflow-wrap */
 
 .overflow-wrap-normal {
