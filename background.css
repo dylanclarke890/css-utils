@@ -201,3 +201,27 @@
 }
 
 /* end of background-repeat */
+
+/* background-size */
+
+.bg-size-auto {
+  background-size: auto;
+}
+
+.bg-size-cover {
+  background-size: cover;
+}
+
+.bg-size-contain {
+  background-size: contain;
+}
+
+.bg-size-initial {
+  background-size: initial;
+}
+
+.bg-size-inherit {
+  background-size: inherit;
+}
+
+/* end of background-size */
