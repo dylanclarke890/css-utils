@@ -1,0 +1,19 @@
+.align-i-flex-start {
+  align-items: flex-start;
+}
+
+.align-i-center {
+  align-items: center;
+}
+
+.align-i-flex-end {
+  align-items: flex-end;
+}
+
+.align-i-stretch {
+  align-items: stretch;
+}
+
+.align-i-baseline {
+  align-items: baseline;
+}

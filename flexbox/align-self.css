@@ -1,0 +1,31 @@
+.align-s-auto {
+  align-self: auto;
+}
+
+.align-s-stretch {
+  align-self: stretch;
+}
+
+.align-s-center {
+  align-self: center;
+}
+
+.align-s-flex-start {
+  align-self: flex-start;
+}
+
+.align-s-flex-end {
+  align-self: flex-end;
+}
+
+.align-s-baseline {
+  align-self: baseline;
+}
+
+.align-s-initial {
+  align-self: initial;
+}
+
+.align-s-inherit {
+  align-self: inherit;
+}
