@@ -1,0 +1,23 @@
+.wordbreak-normal {
+  word-break: normal;
+}
+
+.wordbreak-break-all {
+  word-break: break-all;
+}
+
+.wordbreak-keep-all {
+  word-break: keep-all;
+}
+
+.wordbreak-break-word {
+  word-break: break-word;
+}
+
+.wordbreak-initial {
+  word-break: initial;
+}
+
+.wordbreak-inherit {
+  word-break: inherit;
+}
