@@ -1,0 +1,15 @@
+.isolate {
+  isolation: isolate; /* creates a new stacking context */
+}
+
+.isolate-auto {
+  isolation: auto;
+}
+
+.isolate-initial {
+  isolation: initial;
+}
+
+.isolate-inherit {
+  isolation: inherit;
+}
