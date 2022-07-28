@@ -151,3 +151,23 @@
 }
 
 /* end of text-decoration */
+
+/* direction */
+
+.direction-ltr {
+  direction: ltr;
+}
+
+.direction-rtl {
+  direction: rtl;
+}
+
+.direction-initial {
+  direction: initial;
+}
+
+.direction-inherit {
+  direction: inherit;
+}
+
+/* end of direction */
