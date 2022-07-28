@@ -1,11 +1,11 @@
-.backrop-filter-none {
+.backdrop-filter-none {
   backdrop-filter: none;
 }
 
-.backrop-filter-initial {
+.backdrop-filter-initial {
   backdrop-filter: initial;
 }
 
-.backrop-filter-inherit {
+.backdrop-filter-inherit {
   backdrop-filter: inherit;
 }
