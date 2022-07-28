@@ -1,0 +1,19 @@
+.visible {
+  visibility: visible;
+}
+
+.not-visible {
+  visibility: hidden;
+}
+
+.visible-collapse {
+  visibility: collapse;
+}
+
+.visible-initial {
+  visibility: initial;
+}
+
+.visible-inherit {
+  visibility: inherit;
+}
