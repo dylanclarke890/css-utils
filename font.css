@@ -37,3 +37,55 @@
 }
 
 /* end of font-feature-setting */
+
+/* font-size */
+
+.font-sm-xx {
+  font: xx-small;
+}
+
+.font-sm-x {
+  font: x-small;
+}
+
+.font-sm {
+  font: small;
+}
+
+.font-smaller {
+  font: smaller;
+}
+
+.font-med {
+  font: medium;
+}
+
+.font-larger {
+  font: larger;
+}
+
+.font-lg {
+  font: large;
+}
+
+.font-lg-x {
+  font: x-large;
+}
+
+.font-lg-xx {
+  font: xx-large;
+}
+
+.font-size-initial {
+  font: initial;
+}
+
+.font-size-inherit {
+  font: inherit;
+}
+
+.font-size-inherit {
+  font: inherit;
+}
+
+/* end of font-size */
