@@ -1,19 +1,24 @@
 .align-i-flex-start {
   align-items: flex-start;
+  -webkit-align-item: flex-start;
 }
 
 .align-i-center {
   align-items: center;
+  -webkit-align-item: center;
 }
 
 .align-i-flex-end {
   align-items: flex-end;
+  -webkit-align-item: flex-end;
 }
 
 .align-i-stretch {
   align-items: stretch;
+  -webkit-align-item: stretch;
 }
 
 .align-i-baseline {
   align-items: baseline;
+  -webkit-align-item: baseline;
 }

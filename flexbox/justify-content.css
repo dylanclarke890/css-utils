@@ -1,23 +1,39 @@
+/* The justify-content property aligns the flexible container's items when the 
+ * items do not use all available space on the main-axis (horizontally).
+ * Tip: Use the align-items property to align the items vertically. */
+
 .justify-flex-start {
   justify-content: flex-start;
+  -moz-justify-content: flex-start;
+  -webkit-justify-content: flex-start;
 }
 
 .justify-center {
   justify-content: center;
+  -moz-justify-content: center;
+  -webkit-justify-content: center;
 }
 
 .justify-flex-end {
   justify-content: flex-end;
+  -moz-justify-content: flex-end;
+  -webkit-justify-content: flex-end;
 }
 
 .justify-space-around {
   justify-content: space-around;
+  -moz-justify-content: space-around;
+  -webkit-justify-content: space-around;
 }
 
 .justify-space-between {
   justify-content: space-between;
+  -moz-justify-content: space-between;
+  -webkit-justify-content: space-between;
 }
 
 .justify-space-evenly {
   justify-content: space-evenly;
+  -moz-justify-content: space-evenly;
+  -webkit-justify-content: space-evenly;
 }

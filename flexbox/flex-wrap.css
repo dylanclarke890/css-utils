@@ -1,11 +1,20 @@
+/* The flex-wrap property specifies whether the flexible items should wrap or not.
+ * Note: If the elements are not flexible items, the flex-wrap property has no effect. */
+
 .flex-wrap {
   flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
 }
 
 .flex-wrap-no {
   flex-wrap: nowrap;
+  -moz-flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap;
 }
 
 .flex-wrap-reverse {
   flex-wrap: wrap-reverse;
+  -moz-flex-wrap: wrap-reverse;
+  -webkit-flex-wrap: wrap-reverse;
 }

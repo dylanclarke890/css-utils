@@ -1,15 +1,26 @@
+/* The flex-direction property specifies the direction of the flexible items.
+ * Note: If the element is not a flexible item, the flex-direction property has no effect. */
+
 .flex-column {
   flex-direction: column;
+  -moz-flex-direction: column;
+  -webkit-flex-direction: column;
 }
 
 .flex-column-reverse {
   flex-direction: column-reverse;
+  -moz-flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
 }
 
 .flex-row {
   flex-direction: row;
+  -moz-flex-direction: row;
+  -webkit-flex-direction: row;
 }
 
 .flex-row-reverse {
   flex-direction: row-reverse;
+  -moz-flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }

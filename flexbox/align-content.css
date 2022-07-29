@@ -1,23 +1,29 @@
 .align-c-flex-start {
   align-content: flex-start;
+  -webkit-align-content: flex-start;
 }
 
 .align-c-center {
   align-content: center;
+  -webkit-align-content: center;
 }
 
 .align-c-flex-end {
   align-content: flex-end;
+  -webkit-align-content: flex-end;
 }
 
 .align-c-stretch {
   align-content: stretch;
+  -webkit-align-content: stretch;
 }
 
 .align-c-space-around {
   align-content: space-around;
+  -webkit-align-content: space-around;
 }
 
 .align-c-space-between {
   align-content: space-between;
+  -webkit-align-content: space-between;
 }
