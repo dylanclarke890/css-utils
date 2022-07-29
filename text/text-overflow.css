@@ -1,11 +1,15 @@
+/* Both 'white-space: nowrap;' and 'overflow: hidden;' are required for text-overflow to work. */
+
 .text-overflow-ellipsis {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  -o-text-overflow: ellipsis;
 }
 
 .text-overflow-clip {
   overflow: hidden;
   text-overflow: clip;
   white-space: nowrap;
+  -o-text-overflow: clip;
 }
