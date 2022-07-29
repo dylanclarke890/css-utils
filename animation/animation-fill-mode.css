@@ -1,23 +1,41 @@
 .animate-fill-none {
   animation-fill-mode: none;
+  -moz-animation-fill-mode: none;
+  -o-animation-fill-mode: none;
+  -webkit-animation-fill-mode: none;
 }
 
 .animate-fill-forwards {
   animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
 }
 
 .animate-fill-backwards {
   animation-fill-mode: backwards;
+  -moz-animation-fill-mode: backwards;
+  -o-animation-fill-mode: backwards;
+  -webkit-animation-fill-mode: backwards;
 }
 
 .animate-fill-both {
   animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  -webkit-animation-fill-mode: both;
 }
 
 .animate-fill-initial {
   animation-fill-mode: initial;
+  -moz-animation-fill-mode: initial;
+  -o-animation-fill-mode: initial;
+  -webkit-animation-fill-mode: initial;
 }
 
 .animate-fill-inherit {
   animation-fill-mode: inherit;
+  -moz-animation-fill-mode: inherit;
+  -o-animation-fill-mode: inherit;
+  -webkit-animation-fill-mode: inherit;
 }
