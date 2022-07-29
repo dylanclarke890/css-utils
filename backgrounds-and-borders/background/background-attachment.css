@@ -1,0 +1,19 @@
+.bg-attach-scroll {
+  background-attachment: scroll;
+}
+
+.bg-attach-fixed {
+  background-attachment: fixed;
+}
+
+.bg-attach-local {
+  background-attachment: local;
+}
+
+.bg-attach-initial {
+  background-attachment: initial;
+}
+
+.bg-attach-inherit {
+  background-attachment: inherit;
+}
