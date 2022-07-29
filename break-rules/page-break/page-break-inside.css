@@ -1,4 +1,7 @@
-/* Note: You cannot use this property on absolutely positioned elements. */
+/***********************************************************************************
+ * Note: You cannot use this property on absolutely positioned elements.
+ * The properties: page-break-before, page-break-after and page-break-inside help
+ * to define how a document should behave when printed. */
 
 .page-break-inside-auto {
   page-break-inside: auto;

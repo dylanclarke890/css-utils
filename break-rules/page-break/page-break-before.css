@@ -1,5 +1,8 @@
-/* Note: Browsers may interpret "left" and "right" as "always".  */
-/* Note: no browser currently supports "avoid". */
+/***********************************************************************************
+ * Note: Browsers may interpret "left" and "right" as "always".
+ * Note: no browser currently supports "avoid".
+ * The properties: page-break-before, page-break-after and page-break-inside help
+ * to define how a document should behave when printed. */
 
 .page-break-before-auto {
   page-break-before: auto;
