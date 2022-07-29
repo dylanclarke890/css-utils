@@ -1,3 +1,7 @@
+/* The box-decoration-break property specifies how the background, padding, border,
+ * border-image, box-shadow, margin, and clip-path of an element is applied when the box
+ * for the element is fragmented. */
+
 .box-decor-break-slice {
   box-decoration-break: slice;
 }
