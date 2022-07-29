@@ -1,0 +1,15 @@
+.col-span-none {
+  column-span: none;
+}
+
+.col-span-all {
+  column-span: all;
+}
+
+.col-span-initial {
+  column-span: initial;
+}
+
+.col-span-inherit {
+  column-span: inherit;
+}
