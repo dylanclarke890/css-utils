@@ -1,7 +1,13 @@
 .border-rounded {
   border-radius: 2px;
+  -moz-border-radius: 2px;
+  -o-border-radius: 2px;
+  -webkit-border-radius: 2px;
 }
 
 .border-circle {
   border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  -webkit-border-radius: 50%;
 }
