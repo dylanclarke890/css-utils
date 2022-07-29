@@ -1,3 +1,6 @@
+/* The break-before property extends the CSS2 page-break-before property. With break-before,
+ * you can tell the browser how to handle breaks before images, code snippets, tables, and lists.*/
+
 .break-before-auto {
   break-before: auto;
 }

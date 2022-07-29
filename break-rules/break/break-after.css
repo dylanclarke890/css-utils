@@ -1,3 +1,6 @@
+/* The break-after property extends the CSS2 page-break-after property. With break-after,
+ * you can tell the browser how to handle breaks after images, code snippets, tables, and lists.*/
+
 .break-after-auto {
   break-after: auto;
 }
