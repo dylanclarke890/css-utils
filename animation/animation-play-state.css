@@ -1,15 +1,27 @@
 .animate-state-pause {
   animation-play-state: paused;
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
 }
 
 .animate-state-running {
   animation-play-state: running;
+  -webkit-animation-play-state: running;
+  -moz-animation-play-state: running;
+  -o-animation-play-state: running;
 }
 
 .animate-state-inherit {
   animation-play-state: inherit;
+  -webkit-animation-play-state: inherit;
+  -moz-animation-play-state: inherit;
+  -o-animation-play-state: inherit;
 }
 
 .animate-state-initial {
   animation-play-state: initial;
+  -webkit-animation-play-state: initial;
+  -moz-animation-play-state: initial;
+  -o-animation-play-state: initial;
 }
