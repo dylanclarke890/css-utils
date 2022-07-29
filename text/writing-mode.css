@@ -1,0 +1,19 @@
+.text-write-mode-horizontal-tb {
+  writing-mode: horizontal-tb;
+}
+
+.text-write-mode-sideways-lr {
+  writing-mode: sideways-lr;
+}
+
+.text-write-mode-sideways-rl {
+  writing-mode: sideways-rl;
+}
+
+.text-write-mode-vertical-lr {
+  writing-mode: vertical-lr;
+}
+
+.text-write-mode-vertical-rl {
+  writing-mode: vertical-rl;
+}

@@ -1,0 +1,33 @@
+.text-justify {
+  text-align: justify;
+}
+
+.text-justify-word {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.text-justify-char {
+  text-align: justify;
+  text-justify: inter-character;
+}
+
+.text-justify-cluster {
+  text-align: justify;
+  text-justify: inter-cluster;
+}
+
+.text-justify-ideograph {
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+.text-justify-auto {
+  text-align: justify;
+  text-justify: auto;
+}
+
+.text-justify-none {
+  text-align: justify;
+  text-justify: none;
+}

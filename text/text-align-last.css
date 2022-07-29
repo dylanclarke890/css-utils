@@ -1,0 +1,19 @@
+.text-last-left {
+  text-align-last: left;
+}
+
+.text-last-right {
+  text-align-last: right;
+}
+
+.text-last-center {
+  text-align-last: center;
+}
+
+.text-last-start {
+  text-align-last: start;
+}
+
+.text-last-end {
+  text-align-last: end;
+}

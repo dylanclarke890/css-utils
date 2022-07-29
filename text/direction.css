@@ -1,0 +1,15 @@
+.direction-ltr {
+  direction: ltr;
+}
+
+.direction-rtl {
+  direction: rtl;
+}
+
+.direction-initial {
+  direction: initial;
+}
+
+.direction-inherit {
+  direction: inherit;
+}
