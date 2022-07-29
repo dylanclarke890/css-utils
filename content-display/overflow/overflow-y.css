@@ -1,0 +1,22 @@
+/* Note: The overflow property only works for block elements with a specified height. */
+/* overflow */
+
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-clip {
+  overflow-y: clip;
+}
+
+.overflow-y-visible {
+  overflow-y: visible;
+}

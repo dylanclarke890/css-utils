@@ -1,0 +1,19 @@
+.overflow-wrap-normal {
+  overflow-wrap: normal;
+}
+
+.overflow-wrap-anywhere {
+  overflow-wrap: anywhere;
+}
+
+.overflow-wrap-break-word {
+  overflow-wrap: break-word;
+}
+
+.overflow-wrap-initial {
+  overflow-wrap: initial;
+}
+
+.overflow-wrap-inherit {
+  overflow-wrap: inherit;
+}
