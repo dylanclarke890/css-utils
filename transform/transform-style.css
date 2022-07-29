@@ -2,16 +2,24 @@
 
 .transform-style-flat {
   transform-style: flat;
+  -moz-transform-style: flat;
+  -webkit-transform-style: flat;
 }
 
 .transform-style-preserve {
   transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 
 .transform-style-initial {
   transform-style: initial;
+  -moz-transform-style: initial;
+  -webkit-transform-style: initial;
 }
 
 .transform-style-inherit {
   transform-style: inherit;
+  -moz-transform-style: inherit;
+  -webkit-transform-style: inherit;
 }
