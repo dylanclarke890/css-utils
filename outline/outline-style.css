@@ -1,3 +1,7 @@
+/* Note: Outlines differ from borders! Unlike border, the outline is drawn outside the element's
+ * border, and may overlap other content. Also, the outline is NOT a part of the element's
+ * dimensions; the element's total width and height is not affected by the width of the outline.*/
+
 .outline-style-dotted {
   outline-style: dotted;
 }
