@@ -1,19 +1,33 @@
 .font-feature-normal {
   font-feature-settings: normal;
+  -moz-font-feature-settings: normal;
+  -webkit-font-feature-settings: normal;
 }
 
+/* convert caps to small caps */
 .font-feature-small-caps {
-  font-feature-settings: "smcp" on; /* convert caps to small caps */
+  font-feature-settings: "smcp" on;
+  -moz-font-feature-settings: normal;
+  -webkit-font-feature-settings: normal;
 }
 
+/* convert both upper and lowercase to small caps */
 .font-feature-small-caps-all {
-  font-feature-settings: "c2sc", "smcp"; /* convert both upper and lowercase to small caps */
+  font-feature-settings: "c2sc", "smcp";
+  -moz-font-feature-settings: normal;
+  -webkit-font-feature-settings: normal;
 }
 
+/* no common ligatures (joined characters) */
 .font-feature-liga-off {
-  font-feature-settings: "liga" 0; /* no common ligatures (joined characters) */
+  font-feature-settings: "liga" 0;
+  -moz-font-feature-settings: normal;
+  -webkit-font-feature-settings: normal;
 }
 
+/* enable automatic fractions */
 .font-feature-auto-frac {
-  font-feature-settings: "frac"; /* enable automatic fractions */
+  font-feature-settings: "frac";
+  -moz-font-feature-settings: "frac";
+  -webkit-font-feature-settings: "frac";
 }
