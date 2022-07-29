@@ -1,18 +1,22 @@
 .resize-horizontal {
   overflow: auto;
   resize: horizontal;
+  -moz-resize: horizontal;
 }
 
 .resize-vertical {
   overflow: auto;
   resize: vertical;
+  -moz-resize: vertical;
 }
 
 .resize-both {
   overflow: auto;
   resize: both;
+  -moz-resize: both;
 }
 
 .resize-none {
   resize: none;
+  -moz-resize: none;
 }
