@@ -1,11 +1,22 @@
+/* The backdrop-filter property is used to apply a graphical effect to the area behind an element.
+ * Tip: To see the effect, the element or its background must be at least partially transparent. */
+
 .backdrop-filter-none {
   backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.backdrop-filter-blur {
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
 }
 
 .backdrop-filter-initial {
   backdrop-filter: initial;
+  -webkit-backdrop-filter: initial;
 }
 
 .backdrop-filter-inherit {
   backdrop-filter: inherit;
+  -webkit-backdrop-filter: inherit;
 }
