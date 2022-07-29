@@ -1,23 +1,41 @@
 .animate-dir-normal {
   animation-direction: normal;
+  -moz-animation-direction: normal;
+  -o-animation-direction: normal;
+  -webkit-animation-direction: normal;
 }
 
 .animate-dir-reverse {
   animation-direction: reverse;
+  -moz-animation-direction: reverse;
+  -o-animation-direction: reverse;
+  -webkit-animation-direction: reverse;
 }
 
 .animate-dir-alt {
-  animation-direction: alt;
+  animation-direction: alternate;
+  -moz-animation-direction: alternate;
+  -o-animation-direction: alternate;
+  -webkit-animation-direction: alternate;
 }
 
 .animate-dir-alt-reverse {
   animation-direction: alternate-reverse;
+  -moz-animation-direction: alternate-reverse;
+  -o-animation-direction: alternate-reverse;
+  -webkit-animation-direction: alternate-reverse;
 }
 
 .animate-dir-initial {
   animation-direction: initial;
+  -moz-animation-direction: initial;
+  -o-animation-direction: initial;
+  -webkit-animation-direction: initial;
 }
 
 .animate-dir-inherit {
   animation-direction: inherit;
+  -moz-animation-direction: inherit;
+  -o-animation-direction: inherit;
+  -webkit-animation-direction: inherit;
 }
