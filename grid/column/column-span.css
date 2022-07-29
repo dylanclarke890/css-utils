@@ -1,15 +1,21 @@
+/* should span over one column */
 .col-span-none {
   column-span: none;
+  -webkit-column-span: none;
 }
 
+/* should span all columns */
 .col-span-all {
   column-span: all;
+  -webkit-column-span: all;
 }
 
 .col-span-initial {
   column-span: initial;
+  -webkit-column-span: initial;
 }
 
 .col-span-inherit {
   column-span: inherit;
+  -webkit-column-span: inherit;
 }
