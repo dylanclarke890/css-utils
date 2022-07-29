@@ -1,23 +1,23 @@
 .backface-visible {
+  backface-visibility: visible;
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
-  backface-visibility: visible;
 }
 
 .backface-hidden {
+  backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
 }
 
 .backface-initial {
+  backface-visibility: initial;
   -moz-backface-visibility: initial;
   -webkit-backface-visibility: initial;
-  backface-visibility: initial;
 }
 
 .backface-inherit {
+  backface-visibility: inherit;
   -moz-backface-visibility: inherit;
   -webkit-backface-visibility: inherit;
-  backface-visibility: inherit;
 }
