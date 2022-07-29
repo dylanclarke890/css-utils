@@ -1,23 +1,29 @@
 .col-rule-width-med {
   column-rule-width: medium;
+  -moz-column-rule-width: medium;
+  -webkit-column-rule-width: medium;
 }
 
 .col-rule-width-thin {
   column-rule-width: thin;
+  -moz-column-rule-width: thin;
+  -webkit-column-rule-width: thin;
 }
 
 .col-rule-width-thick {
   column-rule-width: thick;
-}
-
-.col-rule-width-length {
-  column-rule-width: length;
+  -moz-column-rule-width: thick;
+  -webkit-column-rule-width: thick;
 }
 
 .col-rule-width-initial {
   column-rule-width: initial;
+  -moz-column-rule-width: initial;
+  -webkit-column-rule-width: initial;
 }
 
 .col-rule-width-inherit {
   column-rule-width: inherit;
+  -moz-column-rule-width: inherit;
+  -webkit-column-rule-width: inherit;
 }
