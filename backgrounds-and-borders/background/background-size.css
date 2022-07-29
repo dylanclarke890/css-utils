@@ -1,19 +1,34 @@
 .bg-size-auto {
   background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  -webkit-background-size: auto;
 }
 
 .bg-size-cover {
   background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
 }
 
 .bg-size-contain {
   background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  -webkit-background-size: contain;
 }
 
 .bg-size-initial {
   background-size: initial;
+  -moz-background-size: initial;
+  -o-background-size: initial;
+  -webkit-background-size: initial;
 }
 
 .bg-size-inherit {
   background-size: inherit;
+  -moz-background-size: inherit;
+  -o-background-size: inherit;
+  -webkit-background-size: inherit;
 }
