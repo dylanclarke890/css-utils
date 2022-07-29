@@ -1,47 +1,71 @@
 .col-rule-style-none {
   column-rule-style: none;
+  -moz-column-rule-style: none;
+  -webkit-column-rule-style: none;
 }
 
 .col-rule-style-hidden {
   column-rule-style: hidden;
+  -moz-column-rule-style: hidden;
+  -webkit-column-rule-style: hidden;
 }
 
 .col-rule-style-dotted {
   column-rule-style: dotted;
+  -moz-column-rule-style: dotted;
+  -webkit-column-rule-style: dotted;
 }
 
 .col-rule-style-dashed {
   column-rule-style: dashed;
+  -moz-column-rule-style: dashed;
+  -webkit-column-rule-style: dashed;
 }
 
 .col-rule-style-solid {
   column-rule-style: solid;
+  -moz-column-rule-style: solid;
+  -webkit-column-rule-style: solid;
 }
 
 .col-rule-style-double {
   column-rule-style: double;
+  -moz-column-rule-style: double;
+  -webkit-column-rule-style: double;
 }
 
 .col-rule-style-groove {
   column-rule-style: groove;
+  -moz-column-rule-style: groove;
+  -webkit-column-rule-style: groove;
 }
 
 .col-rule-style-ridge {
   column-rule-style: ridge;
+  -moz-column-rule-style: ridge;
+  -webkit-column-rule-style: ridge;
 }
 
 .col-rule-style-inset {
   column-rule-style: inset;
+  -moz-column-rule-style: inset;
+  -webkit-column-rule-style: inset;
 }
 
 .col-rule-style-outset {
   column-rule-style: outset;
+  -moz-column-rule-style: outset;
+  -webkit-column-rule-style: outset;
 }
 
 .col-rule-style-initial {
   column-rule-style: initial;
+  -moz-column-rule-style: initial;
+  -webkit-column-rule-style: initial;
 }
 
 .col-rule-style-inherit {
   column-rule-style: inherit;
+  -moz-column-rule-style: inherit;
+  -webkit-column-rule-style: inherit;
 }
