@@ -1,15 +1,27 @@
+/* The column-fill property specifies how to fill columns, balanced or not.
+ * Tip: If you add a height to a multi-column element, you can control how 
+ * the content fills the columns. The content can be balanced or filled sequentially. */
+
 .col-fill-balance {
   column-fill: balance;
+  -moz-column-fill: balance;
+  -webkit-column-fill: balance;
 }
 
 .col-fill-auto {
   column-fill: auto;
+  -moz-column-fill: auto;
+  -webkit-column-fill: auto;
 }
 
 .col-fill-initial {
   column-fill: initial;
+  -moz-column-fill: initial;
+  -webkit-column-fill: initial;
 }
 
 .col-fill-inherit {
   column-fill: inherit;
+  -moz-column-fill: inherit;
+  -webkit-column-fill: inherit;
 }
