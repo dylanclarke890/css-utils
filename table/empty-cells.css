@@ -1,3 +1,6 @@
+/* The empty-cells property sets whether or not to display borders on empty cells in a table.
+ * Note: This property has no effect if border-collapse is "collapse". */
+
 .empty-cells-show {
   empty-cells: show;
 }
