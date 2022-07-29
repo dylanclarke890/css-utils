@@ -1,0 +1,27 @@
+.animate-time-linear {
+  animation-timing-function: linear;
+}
+
+.animate-time-ease {
+  animation-timing-function: ease;
+}
+
+.animate-time-ease-in {
+  animation-timing-function: ease-in;
+}
+
+.animate-time-ease-out {
+  animation-timing-function: ease-out;
+}
+
+.animate-time-ease-in-out {
+  animation-timing-function: ease-in-out;
+}
+
+.animate-time-linear {
+  animation-timing-function: step-start;
+}
+
+.animate-time-linear {
+  animation-timing-function: step-end;
+}

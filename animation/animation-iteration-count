@@ -1,0 +1,19 @@
+.animate-iterate-infinite {
+  animation-iteration-count: infinite;
+}
+
+.animate-iterate-once {
+  animation-iteration-count: 1;
+}
+
+.animate-iterate-twice {
+  animation-iteration-count: 2;
+}
+
+.animate-iterate-initial {
+  animation-iteration-count: initial;
+}
+
+.animate-iterate-inherit {
+  animation-iteration-count: inherit;
+}

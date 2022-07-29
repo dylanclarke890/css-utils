@@ -1,0 +1,15 @@
+.animate-state-pause {
+  animation-play-state: paused;
+}
+
+.animate-state-running {
+  animation-play-state: running;
+}
+
+.animate-state-inherit {
+  animation-play-state: inherit;
+}
+
+.animate-state-initial {
+  animation-play-state: initial;
+}
