@@ -4,20 +4,35 @@
 
 .box-decor-break-slice {
   box-decoration-break: slice;
+  -moz-box-decoration-break: slice;
+  -o-box-decoration-break: slice;
+  -webkit-box-decoration-break: slice;
 }
 
 .box-decor-break-clone {
   box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  -o-box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 
 .box-decor-break-initial {
   box-decoration-break: initial;
+  -moz-box-decoration-break: initial;
+  -o-box-decoration-break: initial;
+  -webkit-box-decoration-break: initial;
 }
 
 .box-decor-break-inherit {
   box-decoration-break: inherit;
+  -moz-box-decoration-break: inherit;
+  -o-box-decoration-break: inherit;
+  -webkit-box-decoration-break: inherit;
 }
 
 .box-decor-break-unset {
   box-decoration-break: unset;
+  -moz-box-decoration-break: unset;
+  -o-box-decoration-break: unset;
+  -webkit-box-decoration-break: unset;
 }
