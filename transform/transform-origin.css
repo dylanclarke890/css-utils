@@ -1,35 +1,73 @@
+/* Note: This property must be used together with the transform property. */
+
 .transform-orig-left-top {
   transform-origin: left top;
+  -moz-transform-origin: left top;
+  -ms-transform-origin: left top;
+  -o-transform-origin: left top;
+  -webkit-transform-origin: left top;
 }
 
 .transform-orig-left-center {
   transform-origin: left center;
+  -moz-transform-origin: left center;
+  -ms-transform-origin: left center;
+  -o-transform-origin: left center;
+  -webkit-transform-origin: left center;
 }
 
 .transform-orig-left-bottom {
   transform-origin: left bottom;
+  -moz-transform-origin: left bottom;
+  -ms-transform-origin: left bottom;
+  -o-transform-origin: left bottom;
+  -webkit-transform-origin: left bottom;
 }
 
 .transform-orig-right-top {
   transform-origin: right top;
+  -moz-transform-origin: right top;
+  -ms-transform-origin: right top;
+  -o-transform-origin: right top;
+  -webkit-transform-origin: right top;
 }
 
 .transform-orig-right-center {
   transform-origin: right center;
+  -moz-transform-origin: right center;
+  -ms-transform-origin: right center;
+  -o-transform-origin: right center;
+  -webkit-transform-origin: right center;
 }
 
 .transform-orig-right-bottom {
   transform-origin: right bottom;
+  -moz-transform-origin: right bottom;
+  -ms-transform-origin: right bottom;
+  -o-transform-origin: right bottom;
+  -webkit-transform-origin: right bottom;
 }
 
 .transform-orig-center-top {
   transform-origin: center top;
+  -moz-transform-origin: center top;
+  -ms-transform-origin: center top;
+  -o-transform-origin: center top;
+  -webkit-transform-origin: center top;
 }
 
 .transform-orig-center-center {
   transform-origin: center center;
+  -moz-transform-origin: center center;
+  -ms-transform-origin: center center;
+  -o-transform-origin: center center;
+  -webkit-transform-origin: center center;
 }
 
 .transform-orig-center-bottom {
   transform-origin: center bottom;
+  -moz-transform-origin: center bottom;
+  -ms-transform-origin: center bottom;
+  -o-transform-origin: center bottom;
+  -webkit-transform-origin: center bottom;
 }
