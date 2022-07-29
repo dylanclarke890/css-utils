@@ -1,19 +1,32 @@
-hyphens-none {
+/* The hyphens property defines whether hyphenation is allowed to create more
+ * soft wrap opportunities within a line of text. */
+
+.hyphens-none {
   hyphens: none;
+  -ms-hyphens: none;
+  -webkit-hyphens: none;
 }
 
-hyphens-manual {
+.hyphens-manual {
   hyphens: manual;
+  -ms-hyphens: manual;
+  -webkit-hyphens: manual;
 }
 
-hyphens-auto {
+.hyphens-auto {
   hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
-hyphens-initial {
+.hyphens-initial {
   hyphens: initial;
+  -ms-hyphens: initial;
+  -webkit-hyphens: initial;
 }
 
-hyphens-inherit {
+.hyphens-inherit {
   hyphens: inherit;
+  -ms-hyphens: inherit;
+  -webkit-hyphens: inherit;
 }
