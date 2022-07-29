@@ -11,7 +11,7 @@
 }
 
 .content-attr {
-  content: attr;
+  content: attr(href); /* display value based on an attribute of an element.*/
 }
 
 .content-string {
