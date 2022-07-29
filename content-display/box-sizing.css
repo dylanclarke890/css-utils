@@ -1,0 +1,15 @@
+.box-size-content {
+  box-sizing: content-box;
+}
+
+.box-size-border {
+  box-sizing: border-box;
+}
+
+.box-size-initial {
+  box-sizing: initial;
+}
+
+.box-size-inherit {
+  box-sizing: inherit;
+}
