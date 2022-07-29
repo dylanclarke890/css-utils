@@ -1,0 +1,39 @@
+.font-variant-caps-normal {
+  font-variant-caps: normal;
+}
+
+.font-variant-caps-small {
+  font-variant-caps: small-caps;
+}
+
+.font-variant-caps-allsmall {
+  font-variant-caps: all-small-caps;
+}
+
+.font-variant-caps-petite {
+  font-variant-caps: petite-caps;
+}
+
+.font-variant-caps-allpetite {
+  font-variant-caps: all-petite-caps;
+}
+
+.font-variant-caps-unicase {
+  font-variant-caps: unicase;
+}
+
+.font-variant-caps-titling {
+  font-variant-caps: titling-caps;
+}
+
+.font-variant-caps-initial {
+  font-variant-caps: initial;
+}
+
+.font-variant-caps-inherit {
+  font-variant-caps: inherit;
+}
+
+.font-variant-caps-unset {
+  font-variant-caps: unset;
+}

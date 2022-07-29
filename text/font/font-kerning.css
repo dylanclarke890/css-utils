@@ -1,0 +1,11 @@
+.font-kern-auto {
+  font-kerning: auto;
+}
+
+.font-kern-normal {
+  font-kerning: normal;
+}
+
+.font-kern-auto {
+  font-kerning: none;
+}
