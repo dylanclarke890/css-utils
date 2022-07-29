@@ -1,3 +1,6 @@
+/* The text-justify property specifies the justification method of text 
+ * when text-align is set to "justify". */
+
 .text-justify {
   text-align: justify;
 }
