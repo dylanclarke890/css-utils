@@ -1,0 +1,63 @@
+.break-inside-auto {
+  break-inside: auto;
+}
+
+.break-inside-all {
+  break-inside: all;
+}
+
+.break-inside-always {
+  break-inside: always;
+}
+
+.break-inside-avoid {
+  break-inside: avoid;
+}
+
+.break-inside-avoid-column {
+  break-inside: avoid-column;
+}
+
+.break-inside-avoid-page {
+  break-inside: avoid-page;
+}
+
+.break-inside-avoid-region {
+  break-inside: avoid-region;
+}
+
+.break-inside-column {
+  break-inside: column;
+}
+
+.break-inside-left {
+  break-inside: left;
+}
+
+.break-inside-page {
+  break-inside: page;
+}
+
+.break-inside-recto {
+  break-inside: recto;
+}
+
+.break-inside-region {
+  break-inside: region;
+}
+
+.break-inside-right {
+  break-inside: right;
+}
+
+.break-inside-verso {
+  break-inside: verso;
+}
+
+.break-inside-initial {
+  break-inside: initial;
+}
+
+.break-inside-inherit {
+  break-inside: inherit;
+}

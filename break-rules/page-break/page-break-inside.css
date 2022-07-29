@@ -1,0 +1,29 @@
+/* Note: You cannot use this property on absolutely positioned elements. */
+
+.page-break-inside-auto {
+  page-break-inside: auto;
+}
+
+.page-break-inside-always {
+  page-break-inside: always;
+}
+
+.page-break-inside-avoid {
+  page-break-inside: avoid;
+}
+
+.page-break-inside-left {
+  page-break-inside: left;
+}
+
+.page-break-inside-right {
+  page-break-inside: right;
+}
+
+.page-break-inside-initial {
+  page-break-inside: initial;
+}
+
+.page-break-inside-inherit {
+  page-break-inside: inherit;
+}
